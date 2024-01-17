@@ -5,7 +5,10 @@
 ---
 
 ### :man_technologist: About Me: 
-I am a developer that knows how to code in Java <img src="./assets/java-icon.svg" width="15" height="15">, Python <img src="./assets/python-icon.svg" width="15" height="15">, & C++ <img src="./assets/cplusplus-icon.svg" width="15" height="15">
+Languages I know:
+  -<img src="./assets/java-icon.svg" width="15" height="15">Java
+  -<img src="./assets/python-icon.svg" width="15" height="15">Python
+  -<img src="./assets/cplusplus-icon.svg" width="15" height="15">C++
 
 ### Hi there 👋
 
