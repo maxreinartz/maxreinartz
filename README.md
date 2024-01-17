@@ -3,7 +3,7 @@
 </div>
 
 ---
-
+<table><tr><td valign="center"><img src="./assets/java-icon.svg" width="20" height="20"> Java </td></tr></table>
 ## :man_technologist: About Me: 
 ### Languages I know: <br>
 ####   <img src="./assets/java-icon.svg" width="20" height="20"> Java<br>
