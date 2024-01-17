@@ -6,7 +6,6 @@
 
 ## :man_technologist: About Me: 
 ### Languages I know: <br>
-<table><tr><td valign="center"><img src="./assets/java-icon.svg" width="20" height="20"></td></tr></table>
 ####   <img src="./assets/java-icon.svg" width="20" height="20"> Java<br>
 ####   <img src="./assets/python-icon.svg" width="20" height="20"> Python<br>
 ####   <img src="./assets/cplusplus-icon.svg" width="20" height="20"> C++<br>
