@@ -5,7 +5,7 @@
 ---
 
 ### :man_technolgist: About Me: 
-I am a developer that knows how to code in Java <img src="./assets/java-icon.svg" width="10" height="10">, Python <img src="./assets/python-icon.svg" width="10" height="10">, & C++ <img src="./assets/cplusplus-icon.svg" width="10" height="10">
+I am a developer that knows how to code in Java <img src="./assets/java-icon.svg" width="20" height="20">, Python <img src="./assets/python-icon.svg" width="20" height="20">, & C++ <img src="./assets/cplusplus-icon.svg" width="20" height="20">
 
 ### Hi there 👋
 
