@@ -1,4 +1,4 @@
-[![Creeper76's Banner](./assets/Banner.png)]
+![Creeper76's Banner](./assets/Banner.png)
 
 ### Hi there 👋
 
