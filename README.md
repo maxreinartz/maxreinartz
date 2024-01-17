@@ -6,9 +6,10 @@
 
 ## :man_technologist: About Me: 
 ### Languages I know: <br>
-####   <img src="./assets/java-icon.svg" width="20" height="20">〡Java<br>
-####   <img src="./assets/python-icon.svg" width="20" height="20">〡Python<br>
-####   <img src="./assets/cplusplus-icon.svg" width="20" height="20">〡C++<br>
+<table><tr><td valign="center"><img src="./assets/java-icon.svg" width="20" height="20"></td></tr></table>
+####   <img src="./assets/java-icon.svg" width="20" height="20"> Java<br>
+####   <img src="./assets/python-icon.svg" width="20" height="20"> Python<br>
+####   <img src="./assets/cplusplus-icon.svg" width="20" height="20"> C++<br>
 
 <!--
 **Creeper76/creeper76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
