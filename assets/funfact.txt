@@ -1,0 +1,13 @@
+The banner image was made with an AI. The settings will be below:
+
+Model: Anything v5
+Prompt: A top down look of a forest filled with cherry blossom trees. Make it sunrise with lots of vibrant colors and make the sun viewable in the horizon. Make leaves blowing in the wind and make it look magical
+Negative:  EasyNegativeV2
+Width: 2048
+Hight: 512
+Upscaler: Latent
+Upscale by: 2x
+Denoising Strength: 0.7
+Sampling Steps: 30
+Sampling Methoed: DPM++ 2M Karras
+Seed: 3730016701
