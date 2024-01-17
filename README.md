@@ -1,6 +1,14 @@
 <div align="center">
   <img src="./assets/BannerRounded100px.png"/>
 </div>
+<div id="badges">
+  <a href="https://www.youtube.com/@Creeper7689/">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://www.github.com/Creeper76">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 ---
 
@@ -9,9 +17,6 @@
 <h3>   <img src="./assets/java-icon.svg" width="20" height="20"> Java<h4>
 <h3>   <img src="./assets/python-icon.svg" width="20" height="20"> Python<h4>
 <h3>   <img src="./assets/cplusplus-icon.svg" width="20" height="20"> C++<h4>
-
-<p style="font-size: 40px">test</p>
-<p style="font-size: 140px">test</p>
 
 <!--
 **Creeper76/creeper76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
