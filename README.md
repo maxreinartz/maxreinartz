@@ -2,7 +2,10 @@
   <img src="./assets/Banner.png"/>
 </div>
 
-<!-- ? testing ![Creeper76's Banner](./assets/Banner.png)
+---
+
+### :man_technolgist: About Me: 
+I am a developer that knows how to code in Java <img src="./assets/java-icon.svg">, Python <img src="./assets/python-icon.svg">, & C++ <img src="./assets/cplusplus-icon.svg">
 
 ### Hi there 👋
 
