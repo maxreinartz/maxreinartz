@@ -4,7 +4,7 @@
 
 ---
 
-# :man_technologist: About Me: 
+<h1>:man_technologist: About Me: </h1>
 ## Languages I know: <br>
 ###   <img src="./assets/java-icon.svg" width="20" height="20"> Java<br>
 ###   <img src="./assets/python-icon.svg" width="20" height="20"> Python<br>
