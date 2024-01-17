@@ -9,6 +9,7 @@ Upscaler: Latent
 Upscale by: 2x
 Denoising Strength: 0.7
 Sampling Steps: 30
+GCF Scale: 7
 Sampling Methoed: DPM++ 2M Karras
 Seed: 3730016701
 VAE: klF8Anime2VAE (looks more vibrant)
