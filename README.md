@@ -8,7 +8,7 @@
   <a href="https://www.github.com/Creeper76">
     <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="">
+  <a href="https://github.com/Creeper76#find-me-on-discord-creeper76">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
