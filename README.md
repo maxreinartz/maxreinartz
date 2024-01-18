@@ -24,6 +24,7 @@
 ---
 
 ![Creeper76's GitHub stats](https://github-readme-stats.vercel.app/api?username=creeper76&show_icons=true&theme=transparent&title_color=b19bd9&text_color=84ddd9&icon_color=c6dcf5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creeper76&layout=compact)
 
 ---
 
