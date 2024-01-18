@@ -8,6 +8,9 @@
   <a href="https://www.github.com/Creeper76">
     <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
 </div>
 
 ---
@@ -17,6 +20,8 @@
 <h3>   <img src="./assets/java-icon.svg" width="20" height="20"> Java<h4>
 <h3>   <img src="./assets/python-icon.svg" width="20" height="20"> Python<h4>
 <h3>   <img src="./assets/cplusplus-icon.svg" width="20" height="20"> C++<h4>
+
+<h6>Find me on discord @Creeper76</h6>
 
 <!--
 **Creeper76/creeper76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
