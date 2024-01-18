@@ -15,11 +15,11 @@
 
 ---
 
-<h3>:man_technologist: About Me: </h3>
-<h4>Languages I know: </h4>
-<h5>   <img src="./assets/java-icon.svg" width="20" height="20"> Java<h4>
-<h5>   <img src="./assets/python-icon.svg" width="20" height="20"> Python<h4>
-<h5>   <img src="./assets/cplusplus-icon.svg" width="20" height="20"> C++<h4>
+<h2>:man_technologist: About Me: </h2>
+<h3>Languages I know: </h3>
+<h4>   <img src="./assets/java-icon.svg" width="20" height="20"> Java<h4>
+<h4>   <img src="./assets/python-icon.svg" width="20" height="20"> Python<h4>
+<h4>   <img src="./assets/cplusplus-icon.svg" width="20" height="20"> C++<h4>
 
 ---
 
