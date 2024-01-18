@@ -20,9 +20,11 @@
 <h4>   <img src="./assets/java-icon.svg" width="20" height="20"> Java<h4>
 <h4>   <img src="./assets/python-icon.svg" width="20" height="20"> Python<h4>
 <h4>   <img src="./assets/cplusplus-icon.svg" width="20" height="20"> C++<h4>
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=creeper76&show_icons=true&theme=transparent&title_color=b19bd9&text_color=84ddd9&icon_color=c6dcf5" alt="Creeper76's GitHub stats">
-</div>
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=creeper76&show_icons=true&theme=transparent&title_color=b19bd9&text_color=84ddd9&icon_color=c6dcf5" alt="Creeper76's GitHub stats">
+
 ---
 
 <h6>Find me on discord @Creeper76</h6>
