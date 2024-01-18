@@ -15,15 +15,17 @@
 
 ---
 
-![Creeper76's GitHub stats](https://github-readme-stats.vercel.app/api?username=creeper76&show_icons=true&theme=transparent&title_color=b19bd9&text_color=84ddd9&icon_color=c6dcf5)
-
----
-
 <h1>:man_technologist: About Me: </h1>
 <h2>Languages I know: </h2>
 <h3>   <img src="./assets/java-icon.svg" width="20" height="20"> Java<h4>
 <h3>   <img src="./assets/python-icon.svg" width="20" height="20"> Python<h4>
 <h3>   <img src="./assets/cplusplus-icon.svg" width="20" height="20"> C++<h4>
+
+---
+
+![Creeper76's GitHub stats](https://github-readme-stats.vercel.app/api?username=creeper76&show_icons=true&theme=transparent&title_color=b19bd9&text_color=84ddd9&icon_color=c6dcf5)
+
+---
 
 <h6>Find me on discord @Creeper76</h6>
 
