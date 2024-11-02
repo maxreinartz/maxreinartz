@@ -23,8 +23,8 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=creeper76&show_icons=true&theme=transparent&title_color=b19bd9&text_color=84ddd9&icon_color=c6dcf5" alt="Creeper76's GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=creeper76&layout=compact&theme=transparent&title_color=b19bd9&text_color=84ddd9&icon_color=c6dcf5" width="355" height="196" alt="Creeper76's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=maxreinartz&show_icons=true&theme=transparent&title_color=b19bd9&text_color=84ddd9&icon_color=c6dcf5" alt="Max Reinartz's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxreinartz&layout=compact&theme=transparent&title_color=b19bd9&text_color=84ddd9&icon_color=c6dcf5" width="355" height="196" alt="Max Reinartz's Top Languages">
 
 ---
 
