@@ -1,42 +1,24 @@
-<div align="center">
-  <img src="./assets/BannerRounded100px.png"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.youtube.com/@max76dev/">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://www.github.com/maxreinartz">
-    <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-  </a>
-</div>
+# Hi, I'm Max
 
----
+Check out my [website](https://maxreinartz.dev)!
 
-<h2>:man_technologist: About Me</h2>
-<h3>Programming Languages I'm Learning</h3>
-<h4>   <img src="./assets/Python-Dark.svg" width="20" height="20"> Python<h4>
-<h4>   <img src="./assets/Java-Dark.svg" width="20" height="20"> Java<h4>
-<h4>   <img src="./assets/C.svg" width="20" height="20"> C<h4>
+### Platforms & Tools
 
-<h3>What I Like To Do</h3>
-<h4>   🎧 Listen to music 🎵<h4>
-<h4>   💻 Code 🖥️<h4>
+[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=for-the-badge)](https://www.archlinux.org/)
+[![](https://img.shields.io/badge/Windows-11-4e9eee?style=for-the-badge)](https://www.microsoft.com/windows/windows-11)
+[![](https://img.shields.io/badge/iPhone-14%20Pro-999999?style=for-the-badge)](https://www.apple.com/)
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge)](https://code.visualstudio.com/)
 
----
+### Contact
 
-<img src="https://github-readme-stats.vercel.app/api?username=maxreinartz&show_icons=true&theme=transparent&title_color=b19bd9&text_color=84ddd9&icon_color=c6dcf5" alt="Max Reinartz's GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxreinartz&layout=compact&theme=transparent&title_color=b19bd9&text_color=84ddd9&icon_color=c6dcf5" width="355" height="196" alt="Max Reinartz's Top Languages">
-<img src="https://github-readme-stats.vercel.app/api?username=maxreinartz&show_icons=true&theme=transparent&title_color=b19bd9&text_color=84ddd9&
+- Bluesky: [@maxreinartz.dev](https://bsky.app/profile/maxreinartz.dev)
+- Twitter: [@max76dev](https://x.com/max76dev)
+- Email: [contact@maxreinartz.dev](mailto:contact@maxreinartz.dev)
 
-<!--
-**MaxReinartz/maxreinartz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Visits
+
+![Visits](https://count.getloli.com/@maxreinartz?name=maxreinartz&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
+### Music
+
+<img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000922.7f354e2bec0343d1958026d6fcf947d2.2129" width="256" alt="Music Profile">
