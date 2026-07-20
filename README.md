@@ -9,26 +9,16 @@ Check out my [website](https://maxreinartz.dev)!
 [![](https://img.shields.io/badge/iPhone-14%20Pro-999999?style=for-the-badge)](https://www.apple.com/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge)](https://code.visualstudio.com/)
 
-<table>
-<tr>
-<td valign="top" width="60%">
+### Contact
 
-<h3>Contact</h3>
-<ul>
-	<li>Bluesky: <a href="https://bsky.app/profile/maxreinartz.dev">@maxreinartz.dev</a></li>
-	<li>Twitter: <a href="https://x.com/max76dev">@max76dev</a></li>
-	<li>Email: <a href="mailto:contact@maxreinartz.dev">contact@maxreinartz.dev</a></li>
-</ul>
+- Bluesky: [@maxreinartz.dev](https://bsky.app/profile/maxreinartz.dev)
+- Twitter: [@max76dev](https://x.com/max76dev)
+- Email: [contact@maxreinartz.dev](mailto:contact@maxreinartz.dev)
 
-<h3>Visits</h3>
-<img src="https://count.getloli.com/@maxreinartz?name=maxreinartz&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Visits">
+### Visits
 
-</td>
-<td valign="top" width="40%">
+![Visits](https://count.getloli.com/@maxreinartz?name=maxreinartz&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
-<h3>Music</h3>
+### Music
+
 <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000922.7f354e2bec0343d1958026d6fcf947d2.2129" width="256" alt="Music Profile">
-
-</td>
-</tr>
-</table>
